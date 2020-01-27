@@ -9,10 +9,17 @@ This dataset contains callers information and other details such as location, de
 
 # Data description:
 lat: co-ordinates of Latitude
+
 lng: co-ordinates of Longitude
+
 desc: Description of Emergency
+
 zip: ZIP Code
+
 title: Title of Emergency - Reason
+
 timeStampDate and time of the call: Contains date and time - string format
+
 twpTown: township
+
 addrAdress: Location
